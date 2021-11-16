@@ -30,6 +30,10 @@ body{
 	font-size:16px;
 	text-align:left;
 }
+form{
+	padding:20px;
+}
+
 
 footer{position:absolute;
 bottom:0;
