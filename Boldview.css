@@ -18,6 +18,7 @@ body{
 	padding-bottom:2.5rem;
 }
 .grid-container{
+	background-color:grey;
 	display:grid;
 	grid-template-columns: auto auto auto auto;
 	
